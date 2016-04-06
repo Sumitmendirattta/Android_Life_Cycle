@@ -1,0 +1,1 @@
+Project Demonstrate Android Activity Life Cycle and there is a counter variable that keeps on increnting when Application starts and is Paused when different Activity is called.
